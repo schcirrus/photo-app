@@ -12,6 +12,8 @@ gem 'twitter-bootstrap-rails'
 
 gem 'devise-bootstrap-views'
 
+gem 'stripe'
+
 gem 'font-awesome-rails'
 
 gem 'jquery-rails'
